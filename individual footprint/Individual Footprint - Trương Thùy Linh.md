@@ -35,8 +35,8 @@ Dấu ấn lớn nhất của em nằm ở tệp trung tâm game.js và cấu tr
 - Link file:
   - game.js: https://github.com/EpicDolphindape/Strive-Thrive-Game-src/blob/main/js/game.js
   - data.js: https://github.com/EpicDolphindape/Strive-Thrive-Game-src/blob/main/js/data.js
-- Link task division: Group 03 - Task division
-- Link timetable: Deadline & Tasks
+- Link task division: https://docs.google.com/spreadsheets/d/1O_kw8TS1g8lYu8f-3SZRmxCWSvQC3EPBYZArrBgiH1A/edit?usp=drive_link
+- Link timetable: https://docs.google.com/spreadsheets/d/1pIwsmzEs5JvZoBufomu38r1UkSg2uNHq5VXJmHx5_aI/edit?usp=drive_link
 
 ## Phần đóng góp đó kết nối thế nào với sản phẩm cuối cùng
 
